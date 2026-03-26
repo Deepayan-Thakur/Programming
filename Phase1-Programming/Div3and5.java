@@ -9,7 +9,7 @@ public class Div3and5 {
             System.out.println("Divisible by both 3 and 5");
         }
         else{
-            System.out.println("Not Divisible by both the numbers");
+            System.out.println("Not Divisible by both the numbers.");
         }
     }
 }
